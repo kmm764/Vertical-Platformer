@@ -1,3 +1,9 @@
+This game is a single player game. The goal of the game is to collect keys, while avoiding hazards while jump down platforms(figure1). The player must not go past the viewportâ€™s top and bottom boundary, or the game will be over.
+
+A video demo is available on the github page. '2D platformer Video Trailer.mp4'
+Detailed documentation on the game is availalble as well. 'Prototype Design and Specification.pdf'
+
+
 Assets used from 3rd party 
 
 Stickman and platform, spikes
@@ -26,7 +32,7 @@ Public Domain CC0
 
 
 wood crash
-“Sound effects obtained from https://www.zapsplat.com“
+â€œSound effects obtained from https://www.zapsplat.comâ€œ
 Standard License
 
 background
@@ -66,4 +72,3 @@ kidscancode
 MIT License
 
 Unity Documentation
-learn most of the codes from it
