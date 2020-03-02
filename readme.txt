@@ -2,7 +2,7 @@ This game is a single player game. The goal of the game is to collect keys, whil
 
 A video demo is available on the github page. '2D platformer Video Trailer.mp4'
 Detailed documentation on the game is availalble as well. 'Prototype Design and Specification.pdf'
-
+![](pic04.jpg)
 
 Assets used from 3rd party 
 
